@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afeef</h1>
-<h3 align="center">A passionate builder based in Abu Dhabi</h3>
+<h3 align="center">A self taught builder based in Abu Dhabi</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uhhfeef" alt="uhhfeef" /></a> </p>
 
