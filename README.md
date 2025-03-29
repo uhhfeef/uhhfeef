@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/afeef-khan/](https://www.linkedin.com/in/afeef-khan/)
 
-- 💬 Ask me about **AI agentic frameworks, vertical AI Agents**
-
 - 📫 How to reach me **afeefkhan99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
